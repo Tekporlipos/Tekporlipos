@@ -21,13 +21,121 @@ Welcome to my GitHub profile!
 I’m John Dzikunu, a Full-Stack Engineer with 4+ years of professional experience designing, building, and maintaining scalable, data-driven web applications and backend systems used by real users across multiple regions, including the U.S., UK, and Africa.
 
 My core strength lies in backend architecture, database management, and full-stack system integration, with hands-on experience using Next.js, React, Laravel, NestJS, Spring Boot, and modern cloud-native tooling. I’m particularly passionate about building interactive platforms, assessment-based tools, and AI-enabled features that empower users to grow personally and professionally.
+# 🧭 My Engineering Journey
+
+<p align="center">
+  <img src="https://via.placeholder.com/900x300.png?text=Career+Journey+Timeline" />
+</p>
+
+### 🧱 Phase 1 — Desktop Engineering (2016 – 2018)
+<p align="center">
+  <img src="https://via.placeholder.com/800x250.png?text=JavaFX+Desktop+Applications" />
+</p>
+
+I began my career as a **Java desktop application developer**, building internal business tools using **JavaFX and Swing**.  
+This phase gave me strong foundations in:
+
+- Object-oriented programming  
+- Clean system architecture  
+- UI engineering  
+- Software craftsmanship  
+
+---
+
+### 📱 Phase 2 — Mobile & UI/UX Engineering (2018 – 2020)
+<p align="center">
+  <img src="https://via.placeholder.com/900x300.png?text=Mobile+App+UI+Design+%26+Development" />
+</p>
+
+I transitioned into **mobile development and UI/UX engineering**, designing and building **complete mobile products from scratch**.
+
+Notable applications:
+- **Dialiet** — Android (Java + UI/UX)
+- **Manarisem** — Android (Java + UI/UX)
+- **Inspiro** — Android (UI → Production)
+- **Phonky** — Flutter (UI → Production)
+- **Handy Man** — Flutter service marketplace (UI → Production)
+
+This phase shaped my **design sense, UX thinking, and product craftsmanship**.
+
+---
+
+### 🌍 Phase 3 — Web & Full-Stack Engineering (2020 – 2023)
+<p align="center">
+  <img src="https://via.placeholder.com/900x300.png?text=Full-Stack+Web+Platforms" />
+</p>
+
+In 2020, I moved fully into **web & full-stack engineering**, working extensively with:
+
+**Laravel • Vue • Angular • React • Spring Boot**
+
+I led a **32+ engineer team** migrating a **legacy enterprise system into a modern microservices architecture**, using:
+
+- Event-driven systems (Kafka)
+- Distributed services
+- Frontend micro-frontends (Vue)
+- CI/CD & DevOps workflows
+
+This stage elevated my skills in:
+- System architecture  
+- Distributed systems  
+- Engineering leadership  
+- Large-scale software design  
+
+---
+
+### 🏦 Phase 4 — FinTech, Enterprise & AI Systems (2023 – Present)
+<p align="center">
+  <img src="https://via.placeholder.com/900x300.png?text=FinTech+%26+AI+Platforms" />
+</p>
+
+I now build **enterprise-grade platforms and AI-driven systems** for **banks, fintechs, and global companies**, including:
+
+- **UK Banking platforms (NatWest) – Bigspark**
+- **US enterprise platforms – Global Tech Network**
+- **Fidelity Bank Ghana – Breakinvent**
+- **AI platforms – Kwame AI**
+
+My work includes:
+- AI-powered complaint analysis systems  
+- Automated document generation  
+- Secure financial data masking  
+- Enterprise React architectures  
+- Large-scale workflow platforms  
+
+---
+
+### 📊 Phase 5 — Quantitative Finance & AI Leadership (2024 – Present)
+<p align="center">
+  <img src="https://via.placeholder.com/900x300.png?text=Algorithmic+Trading+%26+AI+Systems" />
+</p>
+
+Currently, I serve as **Head of Quantitative Strategies at Tekpor Quant Technologies (TQT)**, leading:
+
+- Algorithmic trading systems  
+- Predictive analytics platforms  
+- AI-based financial modeling  
+- Trading infrastructure engineering  
+
+This blends **software engineering, AI, data science, and finance**.
+
+---
+
+# 🎯 What I Build Today
+
+<p align="center">
+  <img src="https://via.placeholder.com/900x300.png?text=Modern+UI+Systems" />
+</p>
 
 I specialize in:
-- **Backend architecture & data management**
-- **Next.js & React-based frontend systems**
-- **API-driven full-stack applications**
-- **AI / LLM-powered features**
-- **Remote collaboration with U.S. & European teams**
+
+- **UI systems engineering**
+- **Design → production workflows**
+- **Mobile-first frontend platforms**
+- **Workflow-heavy web applications**
+- **Enterprise-scale UI architectures**
+
+---
 
 I enjoy building **interactive platforms**, **assessment-based tools**, and **intelligent systems** that help users grow personally and professionally.
 
@@ -61,16 +169,39 @@ I take strong ownership of the systems I work on and care deeply about clean arc
 </p>
 
 I design and build backend systems that serve as the backbone of modern applications.
-	•	Design RESTful and GraphQL APIs supporting complex workflows
-	•	Structure, normalize, and optimize relational and NoSQL databases
-	•	Implement secure authentication, authorization, and data access layers
-	•	Ensure reliable data storage, retrieval, and integrity
-	•	Optimize queries and backend performance for scale and speed
 
-Technologies I frequently use:
-	•	Laravel, NestJS, Spring Boot, Node.js
-	•	PostgreSQL, MySQL, MongoDB
-	•	Redis, message queues, background jobs
+- Design RESTful and GraphQL APIs supporting complex workflows  
+- Structure, normalize, and optimize relational and NoSQL databases  
+- Implement secure authentication, authorization, and data access layers  
+- Ensure reliable data storage, retrieval, and integrity  
+- Optimize queries and backend performance for scale and speed  
+
+**Technologies I frequently use:**  
+Laravel, NestJS, Spring Boot, Node.js  
+PostgreSQL, MySQL, MongoDB  
+Redis, message queues, background jobs  
+
+---
+
+### 🎨 UI/UX Engineering & Product Design Systems
+<p align="center">
+  <img src="https://img.icons8.com/color/96/figma.png"/>
+  <img src="https://img.icons8.com/color/96/design.png"/>
+  <img src="https://img.icons8.com/color/96/web-design.png"/>
+</p>
+
+I design and engineer **user-centered interfaces** that balance **aesthetics, usability, performance, and scalability**.
+
+My work spans **UX research → wireframes → high-fidelity design → production-grade UI systems**.
+
+- Translate **Figma designs into scalable React & Next.js component systems**
+- Design **mobile-first, responsive layouts** optimized for real-world usage
+- Build **accessible (WCAG) UI components** and interaction patterns
+- Engineer **design systems** using Tailwind, ShadCN, Radix UI, and Storybook
+- Craft **complex workflows and forms** with intuitive UX and minimal friction
+- Optimize UI performance for **low bandwidth and mobile networks**
+
+I approach UI engineering as **product design + system architecture**, not just styling.
 
 ---
 
@@ -81,27 +212,30 @@ Technologies I frequently use:
   <img src="https://img.icons8.com/color/96/web.png"/>
 </p>
 
-
 I work across the full stack to ensure seamless communication between frontend and backend systems.
-	•	Build Next.js and React applications with clean component architecture
-	•	Integrate frontend interfaces with backend APIs and databases
-	•	Implement server-side rendering (SSR), API routes, and optimized data fetching
-	•	Collaborate closely with frontend engineers to align data contracts and UX needs
-	•	Debug and resolve cross-layer issues efficiently
 
-My goal is always to ensure that data flows smoothly from the database to the user interface without friction.
+- Build **Next.js and React applications** with clean component architecture  
+- Integrate frontend interfaces with backend APIs and databases  
+- Implement **server-side rendering (SSR), API routes, and optimized data fetching**  
+- Architect **frontend state management and data flow** using TanStack Query & Zustand  
+- Collaborate closely with designers and backend engineers to align **data contracts and UX needs**  
+- Debug and resolve cross-layer issues efficiently  
 
-⸻
-🔹 Next.js Expertise
+My goal is always to ensure that **data flows smoothly from the database to the user interface with zero friction**.
 
-I use Next.js extensively to build modern, scalable web applications.
-	•	Server-side rendering (SSR) and static site generation (SSG)
-	•	API routes and backend-for-frontend patterns
-	•	Optimized routing, layouts, and performance
-	•	Authentication flows and protected routes
-	•	Integration with backend services and databases
+---
 
-Next.js allows me to deliver fast, SEO-friendly, and highly interactive user experiences backed by solid backend systems.
+#### 🔹 Next.js Expertise
+
+I use Next.js extensively to build **modern, scalable, production-grade web platforms**.
+
+- Server-side rendering (SSR) and static site generation (SSG)  
+- API routes and backend-for-frontend (BFF) patterns  
+- Optimized routing, layouts, and streaming UI  
+- Authentication flows and protected routes  
+- Integration with backend services and distributed systems  
+
+Next.js allows me to deliver **fast, SEO-friendly, and highly interactive user experiences** backed by **robust backend architectures**.
 
 ---
 
@@ -111,21 +245,22 @@ Next.js allows me to deliver fast, SEO-friendly, and highly interactive user exp
   <img src="https://img.icons8.com/color/96/robot.png"/>
 </p>
 
-
-I have hands-on experience building and integrating AI and LLM-based features into production systems.
+I have hands-on experience building and integrating **AI and LLM-powered features** into production systems.
 
 Examples of AI-powered capabilities I’ve worked on include:
-	•	Short-answer and text analysis
-	•	Tone and sentiment detection
-	•	Intelligent content generation
-	•	Automated classification and prioritization
-	•	Decision-support tools for operational teams
+
+- Short-answer and long-form text analysis  
+- Tone, emotion, and sentiment detection  
+- Intelligent content generation  
+- Automated classification and prioritization  
+- Decision-support tools for operational teams  
 
 My focus is always on:
-	•	Making AI features useful, explainable, and reliable
-	•	Integrating them cleanly into existing backend architectures
-	•	Ensuring AI outputs align with real user and business needs
 
+- Making AI features **useful, explainable, and reliable**  
+- Integrating them cleanly into **existing backend architectures**  
+- Designing **AI-assisted user journeys** that feel natural and intuitive  
+- Ensuring AI outputs align with **real user needs and business goals**
 
 ---
 
@@ -152,36 +287,66 @@ My focus is always on:
 	•	Automated workflows and intelligent recommendations
 	•	Secure handling of sensitive data
 
-
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+### 🎨 Frontend & UI Engineering
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![ShadCN UI](https://img.shields.io/badge/ShadCN/UI-black?style=for-the-badge)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook)
 
-### ⚙️ Backend
+---
+
+### 🎨 UI/UX & Product Design
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![UX Research](https://img.shields.io/badge/UX%20Research-4A90E2?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-5B21B6?style=for-the-badge)
+![Accessibility](https://img.shields.io/badge/WCAG%20%26%20A11y-22C55E?style=for-the-badge)
+
+---
+
+### ⚙️ Backend & Systems Engineering
 ![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0A0A0A?style=for-the-badge)
 
-### 🗄️ Databases
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
+---
+
+### 🗄️ Databases & Data Engineering
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Message Queues](https://img.shields.io/badge/Message%20Queues-FF6F00?style=for-the-badge)
 
-### ☁️ DevOps & Tools
+---
+
+### ☁️ Cloud, DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-
+![CI/CD](https://img.shields.io/badge/CI%2FCD-14B8A6?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
+### 🤖 AI & LLM Tooling
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-7C3AED?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-EC4899?style=for-the-badge)
+
+---
 
 🤝 Collaboration & Leadership
 
