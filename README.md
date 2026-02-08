@@ -18,7 +18,7 @@
 </p>
 
 Welcome to my GitHub profile!
-I’m John Dzikunu, a Full-Stack Engineer with 4+ years of professional experience designing, building, and maintaining scalable, data-driven web applications and backend systems used by real users across multiple regions, including the U.S., UK, and Africa.
+I’m John Dzikunu, a Full-Stack Engineer with 6+ years of professional experience designing, building, and maintaining scalable, data-driven web applications and backend systems used by real users across multiple regions, including the U.S., UK, and Africa.
 
 My core strength lies in backend architecture, database management, and full-stack system integration, with hands-on experience using Next.js, React, Laravel, NestJS, Spring Boot, and modern cloud-native tooling. I’m particularly passionate about building interactive platforms, assessment-based tools, and AI-enabled features that empower users to grow personally and professionally.
 # 🧭 My Engineering Journey
