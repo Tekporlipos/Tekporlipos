@@ -278,11 +278,15 @@ My focus is always on:
 UI/UX Highlights:
 
 <p align="center">
-  <img src="https://placehold.co/150x150?text=Mobile+UI+Mockup"/>
-  <img src="https://placehold.co/150x150?text=Figma+Design"/>
-  <img src="https://placehold.co/150x150?text=Interactive+Dashboard"/>
-  <img src="https://placehold.co/150x150?text=Responsive+Web"/>
-  <img src="https://placehold.co/150x150?text=Component+Library"/>
+
+  <!-- Row 1 -->
+  <img src="https://github.com/user-attachments/assets/8a3ac01b-5b8a-4fa4-a922-0c60a9b0ddb8" width="600" style="margin:10px;" />
+  <img src="https://github.com/user-attachments/assets/87af2ec8-5691-4936-86a4-fa974b390399" width="600" style="margin:10px;" />
+
+  <!-- Row 2 -->
+  <img src="https://github.com/user-attachments/assets/ed682ba4-a6d6-4d5b-8900-844eaa4d8e3f" width="600" style="margin:10px;" />
+  <img src="https://github.com/user-attachments/assets/62055d3a-73db-45e8-b5de-ae25349cdbaa" width="600" style="margin:10px;" />
+
 </p>
 
 
