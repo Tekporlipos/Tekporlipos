@@ -23,14 +23,7 @@ I’m John Dzikunu, a Full-Stack Engineer with 4+ years of professional experien
 My core strength lies in backend architecture, database management, and full-stack system integration, with hands-on experience using Next.js, React, Laravel, NestJS, Spring Boot, and modern cloud-native tooling. I’m particularly passionate about building interactive platforms, assessment-based tools, and AI-enabled features that empower users to grow personally and professionally.
 # 🧭 My Engineering Journey
 
-<p align="center">
-  <img src="https://via.placeholder.com/900x300.png?text=Career+Journey+Timeline" />
-</p>
-
 ### 🧱 Phase 1 — Desktop Engineering (2016 – 2018)
-<p align="center">
-  <img src="https://via.placeholder.com/800x250.png?text=JavaFX+Desktop+Applications" />
-</p>
 
 I began my career as a **Java desktop application developer**, building internal business tools using **JavaFX and Swing**.  
 This phase gave me strong foundations in:
@@ -43,9 +36,6 @@ This phase gave me strong foundations in:
 ---
 
 ### 📱 Phase 2 — Mobile & UI/UX Engineering (2018 – 2020)
-<p align="center">
-  <img src="https://via.placeholder.com/900x300.png?text=Mobile+App+UI+Design+%26+Development" />
-</p>
 
 I transitioned into **mobile development and UI/UX engineering**, designing and building **complete mobile products from scratch**.
 
@@ -60,10 +50,7 @@ This phase shaped my **design sense, UX thinking, and product craftsmanship**.
 
 ---
 
-### 🌍 Phase 3 — Web & Full-Stack Engineering (2020 – 2023)
-<p align="center">
-  <img src="https://via.placeholder.com/900x300.png?text=Full-Stack+Web+Platforms" />
-</p>
+### 🌍 Phase 3 — Web & Full-Stack Engineering (2020 – Present)
 
 In 2020, I moved fully into **web & full-stack engineering**, working extensively with:
 
@@ -85,9 +72,6 @@ This stage elevated my skills in:
 ---
 
 ### 🏦 Phase 4 — FinTech, Enterprise & AI Systems (2023 – Present)
-<p align="center">
-  <img src="https://via.placeholder.com/900x300.png?text=FinTech+%26+AI+Platforms" />
-</p>
 
 I now build **enterprise-grade platforms and AI-driven systems** for **banks, fintechs, and global companies**, including:
 
@@ -106,9 +90,6 @@ My work includes:
 ---
 
 ### 📊 Phase 5 — Quantitative Finance & AI Leadership (2024 – Present)
-<p align="center">
-  <img src="https://via.placeholder.com/900x300.png?text=Algorithmic+Trading+%26+AI+Systems" />
-</p>
 
 Currently, I serve as **Head of Quantitative Strategies at Tekpor Quant Technologies (TQT)**, leading:
 
@@ -122,10 +103,6 @@ This blends **software engineering, AI, data science, and finance**.
 ---
 
 # 🎯 What I Build Today
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x300.png?text=Modern+UI+Systems" />
-</p>
 
 I specialize in:
 
@@ -264,28 +241,55 @@ My focus is always on:
 
 ---
 
-## 🧩 Systems I’ve Built
+🧩 Systems I’ve Built
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/flow-chart.png"/>
   <img src="https://img.icons8.com/color/96/combo-chart.png"/>
   <img src="https://img.icons8.com/color/96/inspection.png"/>
+  <img src="https://img.icons8.com/color/96/web-design.png"/>
+  <img src="https://img.icons8.com/color/96/figma.png"/>
+  <img src="https://img.icons8.com/?size=100&id=119124&format=png&color=000000"/>
 </p>
 
+
 ✅ Interactive & Assessment-Based Platforms
-	•	Backend systems supporting dynamic user inputs
-	•	Data models optimized for scoring, analysis, and feedback
-	•	APIs designed for real-time and asynchronous interactions
+	•	Built dynamic platforms supporting real-time user inputs and interactive scoring
+	•	Designed UX flows, wireframes, and high-fidelity UI from concept to production
+	•	Developed backend systems optimized for scoring, analysis, and feedback
+	•	Created APIs for real-time and asynchronous interactions
+	•	Ensured mobile-first responsiveness and accessibility compliance
 
 ✅ Data-Heavy Web Applications
-	•	Applications with complex data relationships
-	•	Efficient querying and retrieval strategies
-	•	Scalable database schemas
+	•	Architected applications with complex data relationships
+	•	Designed efficient database schemas and query optimization strategies
+	•	Built full-stack solutions with tight integration between backend APIs and frontend interfaces
+	•	Implemented interactive dashboards and data visualization components using React and Next.js
+	•	Ensured scalable and maintainable codebase for long-term product growth
 
 ✅ AI-Enabled Business Tools
-	•	Platforms leveraging AI to analyze user input
-	•	Automated workflows and intelligent recommendations
-	•	Secure handling of sensitive data
+	•	Developed platforms leveraging AI/LLM to analyze user input and generate actionable insights
+	•	Integrated intelligent workflows and automated recommendations into the UI
+	•	Implemented secure handling of sensitive data in both backend and frontend
+	•	Built AI-powered UX components, including tone detection, content generation, and decision support
+
+⸻
+
+UI/UX Highlights:
+
+<p align="center">
+  <img src="https://placehold.co/150x150?text=Mobile+UI+Mockup"/>
+  <img src="https://placehold.co/150x150?text=Figma+Design"/>
+  <img src="https://placehold.co/150x150?text=Interactive+Dashboard"/>
+  <img src="https://placehold.co/150x150?text=Responsive+Web"/>
+  <img src="https://placehold.co/150x150?text=Component+Library"/>
+</p>
+
+
+	•	Designed and implemented mobile-first and responsive UI for apps used across US, UK, and African markets
+	•	Translated Figma designs → ShadCN/Tailwind UI components
+	•	Created interactive design systems for consistent branding and reusable components
+	•	Applied accessibility, usability, and motion feedback principles in production interfaces
 
 ---
 
